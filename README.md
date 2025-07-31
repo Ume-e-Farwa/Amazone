@@ -1,1 +1,1 @@
-This is a simple front-end clone of Instagram created using only HTML and CSS. The project replicates the visual layout of Instagram’s homepage ,logo, and basic UI components. It’s perfect for beginners who want to practice HTML/CSS layout and styling skills.
+This is a simple front end clone of Instagram created using only HTML and CSS. The project replicates the visual layout of Instagram’s homepage ,logo, and basic UI components. It’s perfect for beginners who want to practice HTML/CSS layout and styling skills.
